@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+/*------navber------*/
+.nav{
+    background: white;
+    padding: 02rem;
+    height: 0rem;
+    min-height: 40vh;
+    overflow: hidden;
+
+}
+.nav .nav-menu{
+    justify-content: space-between;
+}
+.nav .nav-brand a{
+    font-size: 1.6rem;
+    padding: 1rem 0;
+}
+
+/*----x---navber---x----*/
